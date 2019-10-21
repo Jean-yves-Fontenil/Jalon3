@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Covoit-Poly'Songs.exe" version="2.0.0.0" publicKeyToken="a9a306927fc90c7a" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="covoiturage_32_upe_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Covoit-Poly'Songs" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Covoit-Poly'Songs.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d’utilisateur (UAC)
+          Si vous voulez changer le niveau de contrôle de compte d’utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l’un des nœuds suivants.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous voulez utiliser la virtualisation de fichiers système et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Covoit-Poly'Songs.exe" size="452056">
+      <assemblyIdentity name="Covoit-Poly'Songs" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oWDyf3U8iE1x5OkyYiCU6ZihinR7l7Rr2FhquWEhltk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="itextsharp.dll" size="3485696">
+      <assemblyIdentity name="itextsharp" version="5.0.5.0" publicKeyToken="8354AE6D2174DDCA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vrXCXrX2WcuyV08+rd2jXFsY6GBVjarEUztO2Y4pvVU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="457728">
+      <assemblyIdentity name="MySql.Data" version="6.9.8.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vZOt5pn+YIjqzABheL5YRnsrxRe1pFgyD4tfa0entVA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="covoit.ico" size="42289">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oxu5KQo2n+1DtEsM0pTMY77rKHH5JqVxL3G/V17+M0I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Covoit-Poly'Songs.exe.config" size="567">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>C3zPqKzV1l/Uq7zA5eoTci8cQlmzueA0ETsp7KNmDZw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="covoiturage_32_upe_icon.ico" size="21822">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>I0L2rZcsovV1GhZkxCC9EvdC4yHfD7FBIrZpkBalh5U=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=D2ISARACINE\cd11font" issuerKeyHash="31822979d76196fb3cc3a2f01991de2649b7cc54" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>94VVrEFkrqZGniCK9F7mXyBybUzMytkxCuTBSzCgvkA=</DigestValue></Reference></SignedInfo><SignatureValue>CoSLuYCSgPMLqoraoJSUu/nz1Lm9acy+W64QzOKbAdExeS2li49ejtTjBZExNwjG0rd6rv6l9KLCb2KHSp8P3x2/ywXVidqMQXDsMPanYVJ/0TlFhb4rviAWyaRX+SywVfkaRFNmT2HC1GzXkT14yktmBRbsJJbuaybGQMgQp0w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wZlU76e/55gKGbTsFwghV6uQTW+0WSD37nBrqxAfktkl9pnBb1dj5l96/K/6CBti2yOh49tWGqeXoThqZhDoWvBGpPNdZx1oO9pRWeHoajwpQ2mhW0hsMBMesgBSmBdGXV+Ipy9g0GgU6AFdXizcC7Q7B1E1vRXNzQ5RUIZcvSU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="40bea0304bc1e40a31d9cacc4c6d72205fe65ef48a209e46a6ae6441ac5585f7" Description="" Url=""><as:assemblyIdentity name="Covoit-Poly'Songs.exe" version="2.0.0.0" publicKeyToken="a9a306927fc90c7a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=D2ISARACINE\cd11font</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vS1ucLFA5YBkc98Zc3Jj0rk1oIWzHH3k/UI6jDadnzg=</DigestValue></Reference></SignedInfo><SignatureValue>X8LxWVOXXAxSgs6M1Agy3RR+LQ+Ghaeotk6QVG3ORafL6aeiiwE8kPWvxGbYUzFhnSgE7VGVmE8Ju2vetZrF9bGqmXSE7+R1rxMgfmmLg/yVizwFJtzslNY3fq8UelIwUA6I8mYtCBwiun86yWIL4G8AUks3JoYn0ofSr8Kwles=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wZlU76e/55gKGbTsFwghV6uQTW+0WSD37nBrqxAfktkl9pnBb1dj5l96/K/6CBti2yOh49tWGqeXoThqZhDoWvBGpPNdZx1oO9pRWeHoajwpQ2mhW0hsMBMesgBSmBdGXV+Ipy9g0GgU6AFdXizcC7Q7B1E1vRXNzQ5RUIZcvSU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQbAnFlHxsMbNLk29dJ3Q1bjANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARAAyAEkAUwBBAFIAQQBDAEkATgBFAFwAYwBkADEAMQBmAG8AbgB0MB4XDTE5MDQzMDEyMzMwNloXDTIwMDQyOTE4MzMwNlowMzExMC8GA1UEAx4oAEQAMgBJAFMAQQBSAEEAQwBJAE4ARQBcAGMAZAAxADEAZgBvAG4AdDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwZlU76e/55gKGbTsFwghV6uQTW+0WSD37nBrqxAfktkl9pnBb1dj5l96/K/6CBti2yOh49tWGqeXoThqZhDoWvBGpPNdZx1oO9pRWeHoajwpQ2mhW0hsMBMesgBSmBdGXV+Ipy9g0GgU6AFdXizcC7Q7B1E1vRXNzQ5RUIZcvSUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAUYQCHCelByCEVoT7GDeWqDNXoumP+A45RujGIMkGt73mYp5jHDar5nTiVLY4UuSVogeskWj5JneeBXT991R6HJeuFPMQDygCl05IRJBJr7V63FaFiUIFxI8aLaS8x+yoE0oTtDV1dCkX4OF7X81QXyuqRPBM+N/bmvdGXEqYqnA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

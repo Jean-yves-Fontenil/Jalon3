@@ -1,0 +1,173 @@
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V7\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V8\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V9\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+F:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+G:\C#\Jalon3\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\WindowsFormsPolySongJalon3 - V10 - Copie\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe.config
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\bin\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.exe
+D:\Jalon3\Desktop\Export Rapport Pdf\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.pdb
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\MySql.Data.dll
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\itextsharp.dll
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csprojAssemblyReference.cache
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormCarPooler.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormDriver.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormMain.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormActivity.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.Properties.Resources.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormWelcome.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.GenerateResource.cache
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CoreCompileInputs.cache
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.csproj.CopyComplete
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormAbout.resources
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe.config
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe.manifest
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.application
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.pdb
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.exe.manifest
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.application
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.exe
+D:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.pdb
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\WindowsFormsPolySongJalon3.FormAbout.resources
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.exe
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.pdb
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe.config
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe.manifest
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.application
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.exe
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\bin\Debug\Covoit-Poly'Songs.pdb
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.exe.manifest
+F:\Jalon3\Desktop\Attribution automatique\WindowsFormsPolySongJalon3\obj\Debug\Covoit-Poly'Songs.application
